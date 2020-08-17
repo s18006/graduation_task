@@ -1,9 +1,10 @@
 1. Product
 オークションアップリ:
-	バックエンド: Laravel
-	フロントエンド: Vue.js
-	Style: Bootstrap
-	データベース: MariaDB
+- バックエンド: Laravel
+- フロントエンド: Vue.js
+- Style: Bootstrap
+- データベース: MariaDB
+
 2. スケジュール
 - 承認予定日: 2020/08/31
 - 予備調査終了日(コア機能チェック): 2020/11/30
